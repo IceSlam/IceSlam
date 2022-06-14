@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Paul
 #### I'm Middle Fullstack JS Web Developer
 
-Skills: VueJS / ReactJS / Strapi / ExpressJS / NodeJS / WordPress / MODX Revo
+Skills: VueJS / Strapi / ExpressJS / NodeJS / WordPress / MODX Revo
 
 
 
