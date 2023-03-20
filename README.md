@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Paul
-#### I'm Middle Fullstack JS Web Developer
+#### I'm TeamLead and DevOps Engineer at Noosphere Software LLC.
 
-Skills: VueJS / Strapi / ExpressJS / NodeJS / WordPress / MODX Revo
+Skills: VueJS / Strapi / ExpressJS / NodeJS / WordPress / MODX Revo / DevOps
 
 
 
